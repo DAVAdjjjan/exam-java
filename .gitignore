@@ -30,3 +30,6 @@ bin/
 # Exam ticket docs
 *.docx
 ~$*
+
+### Maven ###
+target/
